@@ -1,4 +1,4 @@
-FROM stanytz/iamlegendv2:latest
+FROM stanytz/revontech-os:latest
 
 EXPOSE 5000
 
