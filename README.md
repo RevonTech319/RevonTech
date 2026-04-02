@@ -1,5 +1,5 @@
 # 
-#  ⚡ REVONTECH BOTFRAMEWORK v2.0                      [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]
+#  ⚡ REVONTECH BOTF RAMEWORK v2.0                      [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]
 #            100% LOADED   
 # 
 
