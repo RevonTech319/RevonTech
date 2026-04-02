@@ -24,3 +24,63 @@ REVONTECH/
 ├── 🛡️ handlers/      # Anti-spam │ Anti-link │ AI filters
 ├── 📦 lib/           # Utilities & helper functions
 └── 🚀 deploy/        # Docker │ Render │ Termux │ VPS scripts
+
+---
+
+## 🎮 QUICK LAUNCH
+
+
+```bash
+<LaTex>id_3</LaTex> cd RevonTech && npm install
+<LaTex>id_2</LaTex> # → Add: SESSION_ID + OWNER_NUMBER
+$ npm start
+[✓] Bot connected! Ready for commands.
+
+🔑 Need Session? →  [GET_SESSION_ID]   // Click to generate 
+
+⚡ FEATURES [UNLOCKED]
+[+] 250+ Commands .......... [MOD] [FUN] [AI] [TOOLS] [MEDIA]
+[+] Plugin Hot-Reload ...... Edit & test without restart
+[+] AI Chat Engine ......... GPT-style conversations per group
+[+] Group Shield ........... Anti-spam • Anti-link • Anti-tag
+[+] Multi-DB Support ....... MongoDB • PostgreSQL • SQLite • JSON
+[+] Deploy Anywhere ........ Cloud • VPS • Termux • Docker • WSL
+[+] Custom Prefixes ........ . ! / # or your own symbol
+[+] Theme Engine ........... Change bot personality on-the-fly
+
+## 👥 CREW MODULE // COLLABORATORS
+
+```
+┌─────────────────────────────────────────────────────┐
+│  👑 PROJECT OWNER                                    │
+│  ┌─────────────────────────────────────────┐        │
+│  │  [👤] RevonTech319                      │        │
+│  │  Role: Vision • Architecture • Strategy │        │
+│  │  ┌─────────────────────────┐           │        │
+│  │  │ [💬] Join Channel      │           │        │
+│  │  └─────────────────────────┘           │        │
+│  │  https://whatsapp.com/channel/         │        │
+│  │  0029VaxUO80DjiOUlmhSVS2f              │        │
+│  └─────────────────────────────────────────┘        │
+│                                                      │
+│  ⚙️ CORE DEVELOPER                                   │
+│  ┌─────────────────────────────────────────┐        │
+│  │  [👤] STANY TZ                          │        │
+│  │  Role: Engine • Plugins • Optimization  │        │
+│  │  ┌─────────────────────────┐           │        │
+│  │  │ [🐙] GitHub Profile   │           │        │
+│  │  └─────────────────────────┘           │        │
+│  │  https://github.com/stanytz378         │        │
+│  └─────────────────────────────────────────┘        │
+│                                                      │
+│  🤝 OPEN FOR CONTRIBUTORS                            │
+│  ┌─────────────────────────────────────────┐        │
+│  │  [ + ] You?                             │        │
+│  │  Skills: JS • WA Bot • UI • Docs • Tests│        │
+│  │  ┌─────────────────────────┐           │        │
+│  │  │ [🚀] Start Contributing│           │        │
+│  │  └─────────────────────────┘           │        │
+│  │  github.com/RevonTech319/RevonTech/issues│      │
+│  └─────────────────────────────────────────┘        │
+└─────────────────────────────────────────────────────┘
+```
