@@ -43,4 +43,40 @@
 + 💾 Multi Database — MongoDB, PostgreSQL, SQLite, JSON
 + 🔄 Hot Reload — Edit plugins without restarting bot
 + 🎨 Customizable — Prefixes, themes, responses, behaviors
-
+👥 Team & Collaborators
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://avatars.githubusercontent.com/RevonTech319?s=120" width="90" style="border-radius:50%; border:3px solid #00D9FF"/><br/>
+        <b>RevonTech319</b><br/>
+        <sub>👑 Project Owner</sub><br/>
+        <a href="https://whatsapp.com/channel/0029VaxUO80DjiOUlmhSVS2f">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp" height="24"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://avatars.githubusercontent.com/stanytz378?s=120" width="90" style="border-radius:50%; border:3px solid #FFD700"/><br/>
+        <b>STANY TZ</b><br/>
+        <sub>⚙️ Core Developer</sub><br/>
+        <a href="https://github.com/stanytz378">
+          <img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github" height="24"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://ui-avatars.com/api/?name=You&background=9370DB&color=fff&size=90" width="90" style="border-radius:50%; border:3px solid #9370DB"/><br/>
+        <b>Join The Crew</b><br/>
+        <sub>🤝 Contributor</sub><br/>
+        <a href="https://github.com/RevonTech319/RevonTech/issues">
+          <img src="https://img.shields.io/badge/Contribute-purple?style=flat&logo=github" height="24"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <b>📊 Live Contributors</b><br/>
+  <a href="https://github.com/RevonTech319/RevonTech/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=RevonTech319/RevonTech&max=20&columns=10" alt="Contributors"/>
+  </a>
+</p>
