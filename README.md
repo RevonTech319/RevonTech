@@ -4,7 +4,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEGEND-BOT&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20Performance%20WhatsApp%20Bot&descAlignY=55&descSize=20" width="100%"/>
-<h2>🚀 Next-Gen WhatsApp Bot Framework</h2>
+<h2>🚀 RevonTech WhatsApp Bot Framework</h2>
 
 <p>
 ⚡ Fast • 🔌 Plugin-Based • 🤖 Smart Automation • 🌍 Multi-Platform
