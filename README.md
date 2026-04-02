@@ -16,4 +16,11 @@
 
 ## 🗂️ SYSTEM MAP
 
-
+REVONTECH/
+├── 🧠 core/          # Bot engine & connection handler
+├── 🔌 plugins/       # Drop your .js commands here (auto-load)
+├── 🗄️ database/      # MongoDB │ PostgreSQL │ SQLite │ JSON
+├── ⚙️ config/        # .env manager & runtime settings
+├── 🛡️ handlers/      # Anti-spam │ Anti-link │ AI filters
+├── 📦 lib/           # Utilities & helper functions
+└── 🚀 deploy/        # Docker │ Render │ Termux │ VPS scripts
