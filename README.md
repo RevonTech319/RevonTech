@@ -1,6 +1,6 @@
 # 
-#  ⚡ REVONTECH BOT FRAMEWORK v2.0                      [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]
-#           100% LOADED   
+#  ⚡ REVONTECH BOTFRAMEWORK v2.0                      [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]
+#            100% LOADED   
 # 
 
 
