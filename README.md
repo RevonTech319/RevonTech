@@ -28,7 +28,39 @@
     <img src="https://img.shields.io/badge/🍴_FORK_REPO-333?style=for-the-badge&logo=github&logoColor=white" height="42"/>
   </a>
 </p>
-
+🚀 DEPLOYMENT CENTER
+☁️ One-Click Cloud Deploy
+<p align="center">
+  <a href="https://render.com/deploy?repo=https://github.com/RevonTech319/RevonTech">
+    <img src="https://img.shields.io/badge/Deploy_to-Render-000000?style=for-the-badge&logo=render&logoColor=white" height="50"/>
+  </a>
+  <a href="https://railway.app/new/template?template=https://github.com/RevonTech319/RevonTech">
+    <img src="https://img.shields.io/badge/Deploy_to-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="50"/>
+  </a>
+  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/RevonTech319/RevonTech">
+    <img src="https://img.shields.io/badge/Deploy_to-Koyeb-1E293B?style=for-the-badge&logo=koyeb&logoColor=white" height="50"/>
+  </a>
+  <a href="https://fly.io/launch?repo=https://github.com/RevonTech319/RevonTech">
+    <img src="https://img.shields.io/badge/Deploy_to-Fly.io-2496ED?style=for-the-badge&logo=flydotio&logoColor=white" height="50"/>
+  </a>
+</p>
+⚠️ Heroku Users: Fork repo first, then use:
+ https://heroku.com/deploy?template=https://github.com/YOUR_USERNAME/RevonTech 
+🖥️ Manual Deployment Options
+<p align="center">
+  <a href="#vps-linux">
+    <img src="https://img.shields.io/badge/🐧_VPS_Linux-000?style=for-the-badge&logo=linux&logoColor=white" height="45"/>
+  </a>
+  <a href="#docker">
+    <img src="https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45"/>
+  </a>
+  <a href="#termux-android">
+    <img src="https://img.shields.io/badge/📱_Termux-34A853?style=for-the-badge&logo=android&logoColor=white" height="45"/>
+  </a>
+  <a href="#windows-wsl">
+    <img src="https://img.shields.io/badge/🪟_Windows_WSL-00A4EF?style=for-the-badge&logo=windows&logoColor=white" height="45"/>
+  </a>
+</p>
 ---
 
 ## 🎯 Quick Overview
