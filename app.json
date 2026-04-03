@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "Bot display name",
       "required": false,
-      "value": "ᴵ ᴬᴹ ᴸᴱᴳᴱᴺᴰ"
+      "value": "RevonTech"
     },
     "BOT_OWNER": {
       "description": "Owner display name",
       "required": false,
-      "value": "STANYTZ"
+      "value": "RevonTech"
     },
     "PREFIXES": {
       "description": "Command prefixes separated by comma (e.g. .,!,/)",
